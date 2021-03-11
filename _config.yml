@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kim dowhan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Global System Engineer."
+  location         : "Republic of Korea, Seoul"
+  email            : "dowhankim.engineer@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
